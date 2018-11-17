@@ -1,0 +1,43 @@
+ 
+2017 Spring Quarter
+    	BOOLEAN ALG & LOGIC	I&C SCI	6B	4.0	B+	13.2	 	 	    
+    	PROG SOFTWARE LIBR	I&C SCI	32	4.0	A	16.0	 	 	    
+    	MULTIVAR CALCULUS	MATH	2D	4.0	A+	16.0	 	 	    
+    	INTRO LINEAR ALGBRA	MATH	3A	4.0	B+	13.2	 	 	    
+    	
+DEANS HONOR LIST
+    
+Term Totals	ATTM:	16.0	PSSD:	16.0	GPTS:	58.4	GPA:	3.650	BAL:	26.4
+    
+Cumulative Totals	ATTM:	43.0	PSSD:	43.0	GPTS:	151.6	GPA:	3.526	BAL:	65.6
+    
+ 
+2017 Special / 10-Week Summer Session
+    	CRIT READING & RHET	WRITING	39B	4.0	A-	14.8	 	 	    
+    	INTERMEDIATE PRGRMG	I&C SCI	33	4.0	A-	14.8	 	 	    
+Term Totals	ATTM:	8.0	PSSD:	8.0	GPTS:	29.6	GPA:	3.700	BAL:	13.6
+    
+Cumulative Totals	ATTM:	51.0	PSSD:	51.0	GPTS:	181.2	GPA:	3.553	BAL:	79.2
+    
+ 
+2017 Fall Quarter
+    	BEG POETRY WRITING	WRITING	30	4.0	A	16.0	 	 	    
+    	DISCRET MATH FOR CS	I&C SCI	6D	4.0	A	16.0	 	 	    
+    	PROGRAM IN C/C++	I&C SCI	45C	4.0	A	16.0	 	 	    
+    	GLOBAL CULTURES&SOC	ANTHRO	41A	4.0	A	16.0	 	 	    
+    	
+DEANS HONOR LIST
+    
+Term Totals	ATTM:	16.0	PSSD:	16.0	GPTS:	64.0	GPA:	4.000	BAL:	32.0
+    
+Cumulative Totals	ATTM:	67.0	PSSD:	67.0	GPTS:	245.2	GPA:	3.660	BAL:	111.2
+    
+ 
+2018 Winter Quarter
+    	DATA STRC IMPL&ANLS	I&C SCI	46	4.0	B-	10.8	 	 	    
+    	INTRO COMPUTER ORG	I&C SCI	51	6.0	B	18.0	 	 	    
+    	INTRO PROB&STAT/CS	STATS	67	4.0	B+	13.2	 	 	    
+Term Totals	ATTM:	14.0	PSSD:	14.0	GPTS:	42.0	GPA:	3.000	BAL:	14.0
+    
+Cumulative Totals	ATTM:	81.0	PSSD:	81.0	GPTS:	287.2	GPA:	3.546	BAL:	125.2
+    
